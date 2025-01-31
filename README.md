@@ -21,13 +21,12 @@ GEN AI resources
   -	Neural networks: https://www.youtube.com/watch?v=aircAruvnKk
   -	Visual tutorials of ML concepts: https://www.youtube.com/@3blue1brown/videos
 
-
--	NLP – prompt engineering
-  -	Large language models: https://www.youtube.com/watch?v=LPZh9BOjkQs
+- NLP/ prompt engineering
+  - Large language models: https://www.youtube.com/watch?v=LPZh9BOjkQs
   -	Prompt engineering: https://developers.google.com/machine-learning/resources/prompt-eng
   -	Embedding: https://huggingface.co/blog/getting-started-with-embeddings
 
--	Generative AI
-  -	Introduction: https://www.youtube.com/watch?v=2IK3DFHRFfw
-  -	Concepts and applications: https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1
-  -	Google guide: https://www.kaggle.com/learn-guide/5-day-genai
+- Generative AI
+  - Introduction: https://www.youtube.com/watch?v=2IK3DFHRFfw
+  - Concepts and applications: https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1
+  - Google guide: https://www.kaggle.com/learn-guide/5-day-genai
