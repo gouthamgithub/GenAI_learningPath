@@ -1,7 +1,13 @@
-# GenAI_learningPath
-A comprehensive list of recourses to learn Generative AI for a beginner.
+# Generative AI Initiative
 
-GEN AI resources
+<H2>Objective</H2>
+Create a learning path with comprehensive list of resources for people interested to learn and explore Generatve AI concepts. Materials listed here are categorized on various levels: prerequisites, beginner, intermediate, expert. This learning path is divided into three phases
+
+- Learning resources/modules
+- Hands-on labs
+- Project
+
+<H2>GenAI resources</H2>
 
 - Python 
   - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, and Hugging Face.
