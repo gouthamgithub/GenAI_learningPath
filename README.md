@@ -42,10 +42,18 @@ Deep Learning (DL) is a subset of ML focused on neural networks with multiple la
 ### Generative AI
 Generative AI focuses on creating new data, such as images, text, and music. This section covers fundamental concepts and applications, providing a foundation for understanding how AI can generate new content.
 
+- Gen AI for beginners: https://learn.microsoft.com/en-us/collections/zpy7c8zmq6ky0z?WT.mc_id=academic-105485-koreyst
 - Introduction: https://www.youtube.com/watch?v=2IK3DFHRFfw
 - Concepts and applications: https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1
 - Google guide: https://www.kaggle.com/learn-guide/5-day-genai
 - OpenAI Blog: https://openai.com/news/
+
+### Azure in Generative AI
+Microsoft Azure offers wide range of generative AI tools and services inclding Azure Open AI service and Azure AI studio. This section covers the offical 
+
+- Learning path: https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/
+- Open AI documentation: https://learn.microsoft.com/en-us/azure/ai-services/openai/
+- Crash cource: https://www.youtube.com/watch?v=3SRh2nzN2DM
 
 ### Introduction to Architectures
 Understanding AI architectures is critical for working with different generative models. This section introduces key architectures such as GANs, VAEs, and Transformers, explaining their role in AI generation.
@@ -88,6 +96,7 @@ Projects help consolidate learning by applying concepts to real-world problems. 
 ### Ethics and Future Trends
 AI ethics and future trends shape the development of responsible and impactful AI. This section covers ethical considerations and provides resources to stay updated with the latest research and innovations.
 
+- Responsible AI: https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/?WT.mc_id=academic-105485-koreyst
 - The Ethics of AI & Machine Learning: https://www.youtube.com/watch?v=qpp1G0iEL_c
 - AI Ethics Resources by Partnership on AI: https://partnershiponai.org/
 - Future Trends
